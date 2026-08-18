@@ -1,16 +1,16 @@
-## Hi there 👋
+# Maciej Kowalski
 
-<!--
-**maciej3j/maciej3j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and Python developer based in Łódź, Poland.
 
-Here are some ideas to get you started:
+I currently work on internal engineering and testing tools using Python.
+Outside work I'm learning Rust and systems programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- a high-performance desktop API testing application in Rust
+- improving my backend and distributed systems fundamentals
+- learning from *Designing Data-Intensive Applications*
+
+Main technologies:
+Python · Rust · FastAPI · Git · Linux · Docker · Jenkins
+
+[LinkedIn](https://www.linkedin.com/in/maciej-kowalski-4b8206276/)
